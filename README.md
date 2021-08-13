@@ -4,9 +4,9 @@
  
 
 Прочитать о проекте подробнее можно здесь:
-- на сайте проекта
-- в материалах Теплицы
-- [в материалах Новой газеты](https://novayagazeta.ru/articles/2021/02/16/89254-pivo-revnost-taburet)
+- [на сайте проекта](https://readymag.com/u3045877410/algoritmsveta/)
+- [в материалах Теплицы](https://te-st.ru/2021/08/13/algoritm-sveta/)
+- в материалах Новой газеты: [первом](https://novayagazeta.ru/articles/2021/02/16/89254-pivo-revnost-taburet) и [втором](https://novayagazeta.ru/articles/2021/08/13/papa-ubil-mamu-v-kvartire)
 - в материалах других СМИ
 
 Алгоритм включает в себя:
